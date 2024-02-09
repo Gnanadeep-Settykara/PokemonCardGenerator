@@ -12,7 +12,7 @@ To unleash the magic of the Pokémon Card Generator:
 
 ## Preview 📸
 
-![Pokémon Card Generator Preview](pokemon.png)
+![Pokémon Card Generator Preview](pokemon_preview.png)
 
 ## Technologies Used 🛠️
 
